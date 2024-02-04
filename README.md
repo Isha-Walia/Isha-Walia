@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="100"/>
 </div>
 
 
@@ -10,7 +10,7 @@
 <h3 align="center">A passionate frontend developer and code enthusiast</h3>
 
 <div id="header" align="center">
-  <img src="https://as1.ftcdn.net/v2/jpg/06/18/41/36/1000_F_618413601_EEYOkWbAdJpyYZ9JkImCvYMXfVpXZAp2.jpg" width="600" height="500"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcwMDYxNDIsIm5iZiI6MTcwNzAwNTg0MiwicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA0VDAwMTcyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxN2NjZWJmMDAwOTA2OGU0M2ZjZGM4MzdiYjRiN2NlMTNlNTJlNzU4MmJkNzQ0MjQ4ZDFjNjVjNzgzOGIyMDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Tu1un5AwEcG9lwlJfxHeRaRvuxKhdGNmeLkkN5BUUb4" width="600" height="500"/>
 </div>
 
 
