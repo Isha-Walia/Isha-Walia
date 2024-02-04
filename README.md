@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Isha walia</h1>
+<h1 align="center">Hi 👋, I'm Isha Walia</h1>
 <h3 align="center">A passionate frontend developer and code enthusiast</h3>
 
 <div id="header" align="center">
